@@ -35185,7 +35185,7 @@
     (property "Value" "TMC2209" (at -12.7 -30.48 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "user_Janelia:TMC2209" (at 10.16 -33.02 0)
+    (property "Footprint" "Janelia:TMC2209" (at 10.16 -33.02 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
