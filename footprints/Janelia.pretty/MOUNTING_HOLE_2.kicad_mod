@@ -12,6 +12,8 @@
   (fp_circle (center 0 0) (end 1.85 0)
     (stroke (width 0.3) (type solid)) (fill none) (layer "F.SilkS") (tstamp 11047aaa-1be5-4e4e-a7d1-89cf9d6b6d7e))
   (fp_circle (center 0 0) (end 2 0)
+    (stroke (width 0.05) (type default)) (fill none) (layer "B.CrtYd") (tstamp 73b8ffa6-8fba-4296-bfeb-fccaa0c1515c))
+  (fp_circle (center 0 0) (end 2 0)
     (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 04a351b7-24e8-4ae2-a979-fdf4d0343b0d))
   (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 2.26) (layers "*.Cu" "*.Mask") (tstamp e32e0971-1d5c-495b-a713-d762c8ce24af))
 )
