@@ -4719,7 +4719,7 @@
     (property "Reference" "J" (at 0.254 3.048 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CONN_UMC_JACK_SMD" (at 2.921 0 90)
+    (property "Value" "UMC_JACK_SMD" (at 2.921 0 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "Janelia:UMC_AMPHENOL_A-1JB" (at 0 12.7 0)
