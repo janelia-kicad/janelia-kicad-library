@@ -154,7 +154,7 @@
          (xy -0.164589 -0.075523) (xy -0.075523 -0.164589) (xy 0.164589 -0.164589) (xy 0.164589 0.164589) (xy -0.164589 0.164589)
 ) (width 0.215024))
     ))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm.wrl
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -37,7 +37,7 @@
   (pad "" smd rect (at 2.8 -0.45) (size 1.5 2.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ac10c211-5718-426d-8056-69cd51ef90fd))
   (pad "1" smd rect (at -0.75 1.4) (size 0.7 3.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 74b2c76d-2737-4bd4-b0a6-7b4ef89b96c9))
   (pad "2" smd rect (at 0.75 1.4) (size 0.7 3.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8a6f811b-f9e4-4392-996d-1121eec61ed3))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_BM04B-ZESS-TBT_1x04-1MP_P1.50mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_BM04B-ZESS-TBT_1x04-1MP_P1.50mm_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

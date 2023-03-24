@@ -32,7 +32,7 @@
   (fp_circle (center 0 0) (end 6.25 0) (layer F.SilkS) (width 0.25))
   (pad 1 smd rect (at 4.475 0) (size 6.75 3.3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -4.475 0) (size 6.75 3.3) (layers F.Cu F.Paste F.Mask))
-  (model Capacitors_SMD.3dshapes/c_elec_10x10.wrl
+  (model Capacitors_SMD.3dshapes/c_elec_10x10.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

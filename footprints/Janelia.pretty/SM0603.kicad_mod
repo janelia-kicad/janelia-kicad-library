@@ -19,7 +19,7 @@
   (fp_line (start -0.55 0.45) (end -0.55 1.15) (layer "F.SilkS") (width 0.125) (tstamp eb09b301-6f70-4c4b-9562-5c00e34a4d27))
   (pad "1" smd rect (at 0 -0.7366 270) (size 0.6096 0.889) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 41e975e7-a571-447b-911c-f7a7c2f71525))
   (pad "2" smd rect (at 0 0.7366 270) (size 0.6096 0.889) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 04c09014-6b30-454c-a6d7-5211fdfb163f))
-  (model "smd/chip_cms.wrl"
+  (model "smd/chip_cms.step"
     (offset (xyz 0 0 0))
     (scale (xyz 0.17 0.2 0.17))
     (rotate (xyz 0 0 0))
