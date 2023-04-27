@@ -34035,7 +34035,7 @@
         (number "1" (effects (font (size 1.27 1.27))))
       )
       (pin input line (at -7.62 -15.24 90) (length 2.54)
-        (name "MS2_AD0" (effects (font (size 1.27 1.27))))
+        (name "MS1_AD0" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
     )
