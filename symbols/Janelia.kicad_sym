@@ -31027,7 +31027,7 @@
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PWR_JACK_2.1x5.5_SMD_RA" (at 2.54 0 90)
-      (effects (font (size 1.27 1.27)))
+      (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "Janelia:DCJACK_3PAD_SMD_RA" (at -2.54 1.27 0)
       (effects (font (size 1.524 1.524)) hide)
