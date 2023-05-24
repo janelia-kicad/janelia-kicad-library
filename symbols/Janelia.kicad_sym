@@ -4388,13 +4388,11 @@
     (property "Manufacturer Part Number" "831068248" (at 0 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "CLK_32MHZ_WURTH_0_1"
+    (symbol "CLK_32MHZ_WURTH_1_1"
       (rectangle (start -6.35 6.35) (end 6.35 -6.35)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
-    )
-    (symbol "CLK_32MHZ_WURTH_1_1"
       (pin input line (at -8.89 0 0) (length 2.54)
         (name "EN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
