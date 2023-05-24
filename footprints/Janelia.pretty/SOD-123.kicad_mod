@@ -2,7 +2,7 @@
   (descr "Microsemi LSM115J")
   (tags "DO-214BA diode")
   (attr smd)
-  (fp_text reference REF** (at 0 -1.5 180) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -1.5 180) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.1905)))
   )
   (fp_text value SOD-123 (at 0 1.6) (layer F.SilkS) hide

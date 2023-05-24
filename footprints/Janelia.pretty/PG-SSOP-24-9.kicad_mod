@@ -1,5 +1,5 @@
 (module PG-SSOP-24-9 (layer F.Cu) (tedit 56D71143)
-  (fp_text reference REF** (at -5.08 0 90) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at -5.08 0 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value PG-SSOP-24-9 (at 5.334 0 90) (layer F.SilkS)

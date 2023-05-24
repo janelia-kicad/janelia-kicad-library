@@ -2,7 +2,7 @@
   (descr "Diode SMB (DO-214AA)")
   (tags "Diode SMB (DO-214AA)")
   (attr smd)
-  (fp_text reference REF** (at 0 -3) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value D_SMB (at 0 3.1) (layer F.Fab)

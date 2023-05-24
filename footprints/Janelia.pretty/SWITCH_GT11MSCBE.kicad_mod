@@ -2,7 +2,7 @@
   (fp_text reference SWITCH_GT11MSCBE (at 0 -5.08) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value VAL** (at 0 5.08) (layer F.SilkS)
+  (fp_text value "${VALUE}" (at 0 5.08) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start 0 0) (end 0 -3.175) (layer F.SilkS) (width 0.381))

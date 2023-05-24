@@ -2,7 +2,7 @@
   (fp_text reference RCD-24 (at -12.7 0 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value VAL** (at 0 0) (layer F.SilkS)
+  (fp_text value "${VALUE}" (at 0 0) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_line (start -11.684 -6.604) (end -11.684 6.604) (layer F.SilkS) (width 0.381))

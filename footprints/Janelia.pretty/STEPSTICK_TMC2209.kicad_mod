@@ -1,5 +1,5 @@
 (module STEPSTICK_TMC2209 (layer F.Cu) (tedit 617038D1)
-  (fp_text reference REF** (at 0 -11.43) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -11.43) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value STEPSTICK_TMC2209 (at 0 0 90) (layer F.SilkS)

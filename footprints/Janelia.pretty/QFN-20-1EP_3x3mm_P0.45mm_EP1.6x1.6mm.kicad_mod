@@ -2,7 +2,7 @@
   (descr "QFN, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf#page=212), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (attr smd)
-  (fp_text reference REF** (at 0 -2.82) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -2.82) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm (at 0 2.82) (layer F.Fab)

@@ -1,5 +1,5 @@
 (module VQFN-4x4-24 (layer F.Cu) (tedit 5C59FCBF)
-  (fp_text reference REF** (at 2 -2) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 2 -2) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)) (justify left))
   )
   (fp_text value VQFN-24 (at 0 3) (layer F.Fab)

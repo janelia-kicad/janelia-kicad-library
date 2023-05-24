@@ -4,7 +4,7 @@
   (descr "SMT capacitor, aluminium electrolytic, 3x5.5")
   (tags "Capacitor Electrolytic")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -2.7) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 -2.7) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp cf3d134c-041f-4868-af59-102a661e0e85)
   )

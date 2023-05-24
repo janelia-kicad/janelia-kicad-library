@@ -2,7 +2,7 @@
   (descr "Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 6.05mm Height, Vertical, Surface Mount, ZIF, 15 Circuits (https://www.molex.com/pdm_docs/sd/5022311500_sd.pdf)")
   (tags "molex FFC/FPC connector Pitch 0.5mm vertical")
   (attr smd)
-  (fp_text reference REF** (at 0 -0.6 180) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -0.6 180) (layer F.SilkS)
     (effects (font (size 0.254 0.254) (thickness 0.0635)))
   )
   (fp_text value Molex_FFC_1x8_P0.5mm_RA (at 0 3.75) (layer F.Fab)

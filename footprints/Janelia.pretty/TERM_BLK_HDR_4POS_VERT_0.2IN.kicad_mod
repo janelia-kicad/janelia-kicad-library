@@ -1,5 +1,5 @@
 (module TERM_BLK_HDR_4POS_VERT_0.2IN (layer F.Cu) (tedit 589CD37D)
-  (fp_text reference REF** (at -12.7 0 90) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at -12.7 0 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value TERM_BLK_HDR_4POS_VERT_0.2IN (at 12.58 0 90) (layer F.Fab)

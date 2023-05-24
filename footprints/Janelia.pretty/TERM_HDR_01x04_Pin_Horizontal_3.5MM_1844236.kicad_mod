@@ -3,7 +3,7 @@
   (descr "1844278")
   (tags "Connector")
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 2) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 2) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp f30a34a6-2b65-4c0c-9ad4-adf27c560ea5)
   )

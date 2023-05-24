@@ -1,5 +1,5 @@
 (module SPEAKER_8OHM_300MW (layer F.Cu) (tedit 59B99EA8)
-  (fp_text reference REF** (at 5.5 9) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 5.5 9) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value SPEAKER_8OHM_300MW (at 0 -8.89) (layer F.Fab)

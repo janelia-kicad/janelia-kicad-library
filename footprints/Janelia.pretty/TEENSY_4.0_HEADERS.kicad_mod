@@ -1,5 +1,5 @@
 (module TEENSY_4.0_HEADERS (layer F.Cu) (tedit 618C238A)
-  (fp_text reference REF** (at 0 19.05) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 19.05) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value TEENSY_4.0_HEADERS (at -10.16 0 90) (layer F.SilkS) hide

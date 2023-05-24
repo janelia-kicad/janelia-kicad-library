@@ -1,5 +1,5 @@
 (module ENCODER_62AVD (layer F.Cu) (tedit 5798E885)
-  (fp_text reference REF** (at 0 -7.62) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -7.62) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value ENCODER_62AVD (at 0 8.89) (layer F.Fab)

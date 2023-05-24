@@ -1,5 +1,5 @@
 (module M12-5_RCPT_F (layer F.Cu) (tedit 5BCA3246)
-  (fp_text reference REF** (at 0 -10) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -10) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value M12-5_RCPT_F (at 0 10) (layer F.Fab)

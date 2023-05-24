@@ -3,7 +3,7 @@
   (descr "Potentiometer, vertical, Bourns 3214W, https://www.bourns.com/docs/Product-Datasheets/3214.pdf")
   (tags "Potentiometer vertical Bourns 3214W")
   (attr smd)
-  (fp_text reference "REF**" (at -2.25 0 90) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at -2.25 0 90) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp 5e80dae3-c4c8-4da5-a7a2-0fdb960465c5)
   )

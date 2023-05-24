@@ -4,7 +4,7 @@
   (descr "WQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/ts3a27518e.pdf#page=33), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WQFN NoLead")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -3.32) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 -3.32) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4c7e8231-06a9-4de8-b840-d1dfddba70c9)
   )

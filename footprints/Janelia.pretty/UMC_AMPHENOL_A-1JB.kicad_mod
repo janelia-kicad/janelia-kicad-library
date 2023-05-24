@@ -1,7 +1,7 @@
 (footprint "UMC_AMPHENOL_A-1JB" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "REF**" (at -2.5 0 -90) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at -2.5 0 -90) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp 8a4c6b6c-9334-4509-a397-23b6617659e9)
   )

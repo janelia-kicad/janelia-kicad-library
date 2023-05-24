@@ -3,7 +3,7 @@
   (descr "U-DFN2020-6 (Type F) (https://www.diodes.com/assets/Package-Files/U-DFN2020-6-Type-F.pdf) ")
   (tags "U-DFN2020-6 (Type F)")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -1.5) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 -1.5) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp 7aa33dee-ea98-4186-aac7-9d9d25e477c3)
   )

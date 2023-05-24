@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (tags "SN65LVDM050QDRQ1 ")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -5.75 unlocked) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 -5.75 unlocked) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp 41299a21-bf6c-4666-b22f-c66b3a22f405)
   )

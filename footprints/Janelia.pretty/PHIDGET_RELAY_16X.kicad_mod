@@ -1,5 +1,5 @@
 (module PHIDGET_RELAY_16X (layer F.Cu) (tedit 5F12183E)
-  (fp_text reference REF** (at 39.37 -29.21 90) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 39.37 -29.21 90) (layer F.SilkS)
     (effects (font (size 1.524 1.524) (thickness 0.381)))
   )
   (fp_text value PHIDGET_RELAY_16X (at 39.37 29.21 270) (layer F.SilkS) hide

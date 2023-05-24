@@ -1,5 +1,5 @@
 (module DCJACK_4PAD_SMD_RA (layer F.Cu) (tedit 57913741)
-  (fp_text reference REF** (at -7 5.5) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at -7 5.5) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value DCJACK_4PAD_SMD_RA (at 0 -8.255) (layer F.SilkS)

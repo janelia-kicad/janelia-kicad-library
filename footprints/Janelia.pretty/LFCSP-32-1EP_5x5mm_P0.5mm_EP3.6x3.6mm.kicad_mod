@@ -2,7 +2,7 @@
   (descr "32-Lead Frame Chip Scale Package LFCSP (5mm x 5mm); (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-32/CP_32_27.pdf")
   (tags "LFCSP 0.5")
   (attr smd)
-  (fp_text reference REF** (at 0 -3.75) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -3.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value LFCSP-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm (at 0 3.75) (layer F.Fab)

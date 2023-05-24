@@ -1,5 +1,5 @@
 (module DB9F (layer F.Cu) (tedit 59C00892)
-  (fp_text reference REF** (at 0 -7.62) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -7.62) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value DB9F (at 0 -4.445) (layer F.Fab)

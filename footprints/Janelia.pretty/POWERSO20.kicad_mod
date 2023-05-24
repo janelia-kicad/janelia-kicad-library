@@ -1,5 +1,5 @@
 (module POWERSO20 (layer F.Cu) (tedit 56E84248)
-  (fp_text reference REF** (at -6.75 6.75 90) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at -6.75 6.75 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value POWERSO20 (at 0 0) (layer F.SilkS)

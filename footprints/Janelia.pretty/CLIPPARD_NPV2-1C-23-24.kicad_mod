@@ -2,7 +2,7 @@
   (fp_text reference NPV2-1C (at 0 -13.716 180) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value VAL** (at 0 13.716) (layer F.SilkS) hide
+  (fp_text value "${VALUE}" (at 0 13.716) (layer F.SilkS) hide
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_line (start -0.898026 2.694077) (end -8.082231 9.878282) (layer F.SilkS) (width 0.2794))

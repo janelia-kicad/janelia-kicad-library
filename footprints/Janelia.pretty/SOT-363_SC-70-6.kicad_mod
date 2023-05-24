@@ -4,7 +4,7 @@
   (descr "SOT-363, SC-70-6")
   (tags "SOT-363 SC-70-6")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 -2) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ba5e12ed-3c26-4b66-a6df-38f72030d493)
   )

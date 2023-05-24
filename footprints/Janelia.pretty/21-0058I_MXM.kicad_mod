@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (tags "MAX6817EUT+T ")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -2 unlocked) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 -2 unlocked) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp 2a5e7bc0-d078-4271-8ac7-1aa619996598)
   )

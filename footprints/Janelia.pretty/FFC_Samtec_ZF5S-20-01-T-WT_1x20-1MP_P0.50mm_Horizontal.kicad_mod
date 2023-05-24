@@ -1,7 +1,7 @@
 (footprint "FFC_Samtec_ZF5S-20-01-T-WT_1x20-1MP_P0.50mm_Horizontal" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -3.5) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 -3.5) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp 238a6cff-7105-4bb0-a6ad-f0aed0ee5a30)
   )

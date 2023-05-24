@@ -1,5 +1,5 @@
 (module SIP8_RECOM (layer F.Cu) (tedit 55AFA922)
-  (fp_text reference REF** (at 0 -4.445) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -4.445) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value SIP8_RECOM (at 0 3.81) (layer F.SilkS)

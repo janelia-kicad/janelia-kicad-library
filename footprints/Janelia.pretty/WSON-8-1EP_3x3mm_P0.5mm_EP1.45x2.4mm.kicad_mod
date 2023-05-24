@@ -3,7 +3,7 @@
   (descr "WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/ina333.pdf#page=30), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WSON NoLead")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -2.45) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 -2.45) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f8483131-79d7-4b73-a9fe-0965c0ced836)
   )

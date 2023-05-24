@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (tedit 0)
   (descr "2-Pin JST PH Series Right-Angle Connector (+/- for batteries)")
-  (fp_text reference "REF**" (at -2.2225 -1.9685) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at -2.2225 -1.9685) (layer "F.SilkS")
     (effects (font (size 0.666496 0.666496) (thickness 0.146304)) (justify left bottom))
     (tstamp 40d1a1f8-56e4-40b2-ab62-e5dc5125d024)
   )

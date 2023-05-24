@@ -1,11 +1,11 @@
 (footprint "MOUNTING_HOLE_4" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 -3.175) (layer "F.SilkS") hide
+  (fp_text reference "${REFERENCE}" (at 0 -3.175) (layer "F.SilkS") hide
       (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp b1613344-2429-440e-a1bd-e4e4328865d5)
   )
-  (fp_text value "VAL**" (at 0 3.175) (layer "F.Fab")
+  (fp_text value "${VALUE}" (at 0 3.175) (layer "F.Fab")
       (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp d4b3edd2-79bf-45f3-a33a-535c55fa8947)
   )

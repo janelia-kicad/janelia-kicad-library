@@ -3,7 +3,7 @@
   (descr "Tantalum Capacitor SMD Kemet-X (7343-43 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
   (tags "capacitor tantalum")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -3.1) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 -3.1) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 373a3798-d647-4de0-88e7-198a067c0eb3)
   )

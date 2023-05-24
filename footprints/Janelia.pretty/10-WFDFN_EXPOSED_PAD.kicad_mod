@@ -1,5 +1,5 @@
 (module 10-WFDFN_EXPOSED_PAD (layer F.Cu) (tedit 61898331)
-  (fp_text reference REF** (at -2.286 0 90) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at -2.286 0 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value 10-WFDFN_EXPOSED_PAD (at 2.5 0 90) (layer F.Fab)

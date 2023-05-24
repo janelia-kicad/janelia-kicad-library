@@ -1,5 +1,5 @@
 (module JOYSTICK (layer F.Cu) (tedit 57BF348E)
-  (fp_text reference REF** (at 0 12.065) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 12.065) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value JOYSTICK (at 0 -1.905) (layer F.Fab)

@@ -1,7 +1,7 @@
 (footprint "PHOTODIODE_RADIAL_RA_SMD_BRIGHT" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "REF**" (at 3 2 90 unlocked) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 3 2 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp 8bbf5df7-daa3-40b6-bf7c-4f9f2714b084)
   )

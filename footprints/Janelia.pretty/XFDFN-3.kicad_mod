@@ -3,7 +3,7 @@
   (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOT TO_SOT_SMD")
   (attr smd)
-  (fp_text reference "REF**" (at -0.75 0 90) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at -0.75 0 90) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp a789b715-a607-4e33-8841-9629668002af)
   )

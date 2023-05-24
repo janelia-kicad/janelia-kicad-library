@@ -1,5 +1,5 @@
 (module TSSOP_EP_24 (layer F.Cu) (tedit 0)
-  (fp_text reference REF** (at 0 0) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value RE_24 (at 0 0) (layer F.SilkS)

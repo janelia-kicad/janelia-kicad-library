@@ -1,5 +1,5 @@
 (module NHD-ASC3 (layer F.Cu) (tedit 57C09657)
-  (fp_text reference REF** (at 23.495 0 90) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 23.495 0 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value NHD-ASC3 (at 0 26) (layer F.Fab)

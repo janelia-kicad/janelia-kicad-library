@@ -2,7 +2,7 @@
   (fp_text reference BAT54_SOT363 (at 0 -2.54) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value VAL** (at 0 2.54) (layer F.SilkS)
+  (fp_text value "${VALUE}" (at 0 2.54) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_circle (center -1.651 0.762) (end -1.651 0.508) (layer F.SilkS) (width 0.381))

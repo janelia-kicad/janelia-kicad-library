@@ -1,5 +1,5 @@
 (module TEENSY_3.5_MIN (layer F.Cu) (tedit 5B7C7EBD)
-  (fp_text reference REF** (at 9.652 12.7 90) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 9.652 12.7 90) (layer F.SilkS)
     (effects (font (size 0.508 0.508) (thickness 0.127)))
   )
   (fp_text value TEENSY_3.5 (at 0 -16.5) (layer F.SilkS)

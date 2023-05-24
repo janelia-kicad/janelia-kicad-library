@@ -1,5 +1,5 @@
 (module TERM_BLK_12_PIN_0.1_PITCH (layer F.Cu) (tedit 59C41F64)
-  (fp_text reference REF** (at 11.43 4.445) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 11.43 4.445) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value TERM_BLK_12_PIN (at 0 4.445) (layer F.SilkS)

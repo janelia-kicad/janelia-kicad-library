@@ -2,7 +2,7 @@
   (fp_text reference MODULAR_DEVICE_BASE_5x3_FEMALE (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value VAL** (at 0 2.54) (layer F.SilkS) hide
+  (fp_text value "${VALUE}" (at 0 2.54) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_text user DAC1 (at 21.59 27.94) (layer B.SilkS)

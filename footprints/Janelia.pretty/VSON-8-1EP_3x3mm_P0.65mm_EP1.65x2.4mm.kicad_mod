@@ -3,7 +3,7 @@
   (descr "8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf")
   (tags "WSON 8 1EP")
   (attr smd)
-  (fp_text reference "REF**" (at 0 2.25) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at 0 2.25) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp 15537891-eefa-4f8f-b2a5-b914f6619815)
   )

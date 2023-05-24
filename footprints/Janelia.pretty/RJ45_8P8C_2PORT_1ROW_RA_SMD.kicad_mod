@@ -1,5 +1,5 @@
 (module RJ45_8P8C_2PORT_1ROW_RA_SMD (layer F.Cu) (tedit 59BC2C56)
-  (fp_text reference REF** (at 0 -12.065) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -12.065) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value RJ45_8P8C_2PORT_1ROW_RA_SMD (at 0 -8.255) (layer F.Fab)

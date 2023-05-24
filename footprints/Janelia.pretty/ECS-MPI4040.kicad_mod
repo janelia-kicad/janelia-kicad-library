@@ -1,7 +1,7 @@
 (module ECS-MPI4040 (layer F.Cu) (tedit 59EE3BA4)
   (solder_mask_margin 0.1016)
   (clearance 0.1016)
-  (fp_text reference REF** (at 0 -3) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 -3) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.1905)))
   )
   (fp_text value ECS-MPI4040 (at -3.175 0 90) (layer F.Fab)

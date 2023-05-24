@@ -2,7 +2,7 @@
   (fp_text reference HEADER_02x03 (at 0 5.715) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value VAL** (at -8.89 0 90) (layer F.SilkS)
+  (fp_text value "${VALUE}" (at -8.89 0 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_line (start -7.62 4.572) (end 7.62 4.572) (layer F.SilkS) (width 0.381))

@@ -2,7 +2,7 @@
   (fp_text reference "HEADER_01x25" (at 32.75 0 270) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value "VAL**" (at -33 0 90) (layer F.SilkS) hide
+  (fp_text value "${VALUE}" (at -33 0 90) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
   )
   (fp_line (start -31.75 -1.27) (end 31.75 -1.27) (layer F.SilkS) (width 0.381))

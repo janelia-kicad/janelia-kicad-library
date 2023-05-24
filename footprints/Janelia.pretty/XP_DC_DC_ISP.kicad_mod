@@ -1,5 +1,5 @@
 (module XP_DC_DC_ISP (layer F.Cu) (tedit 55AE9C4D)
-  (fp_text reference REF** (at 0 8.89) (layer F.SilkS)
+  (fp_text reference "${REFERENCE}" (at 0 8.89) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value XP_DC_DC_ISP (at 0 0) (layer F.SilkS)

@@ -2,7 +2,7 @@
   (fp_text reference SPST_SERIES_M (at -4.826 5.588 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value VAL** (at -4.826 0 90) (layer F.SilkS) hide
+  (fp_text value "${VALUE}" (at -4.826 0 90) (layer F.SilkS) hide
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text user Lights (at 0 -10.16) (layer F.SilkS)

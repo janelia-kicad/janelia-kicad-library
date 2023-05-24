@@ -1,7 +1,7 @@
 (footprint "SMA_LINX_CONSMA002-G" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
-  (fp_text reference "REF**" (at -1.468 -5.5714) (layer "F.SilkS")
+  (fp_text reference "${REFERENCE}" (at -1.468 -5.5714) (layer "F.SilkS")
       (effects (font (size 0.64 0.64) (thickness 0.15)))
     (tstamp 17811d70-98ac-42a0-a5e6-e35064114614)
   )

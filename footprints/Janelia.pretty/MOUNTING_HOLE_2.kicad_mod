@@ -6,7 +6,7 @@
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
     (tstamp 50e75ad4-e98b-421c-8bed-e96f09b7adb2)
   )
-  (fp_text value "VAL**" (at 0 3.81) (layer "F.SilkS") hide
+  (fp_text value "${VALUE}" (at 0 3.81) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
     (tstamp 78aa09ab-b407-4284-9636-9af1dbaa47b9)
   )
