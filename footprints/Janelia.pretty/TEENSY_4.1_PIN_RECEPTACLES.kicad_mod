@@ -127,4 +127,9 @@
   (pad 34 thru_hole oval (at 7.62 39.37) (size 2.54 2.1844) (drill 1.5494) (layers *.Cu *.Mask))
   (pad 33 thru_hole oval (at 7.62 41.91) (size 2.54 2.1844) (drill 1.5494) (layers *.Cu *.Mask))
   (pad "" thru_hole oval (at 7.62 19.05) (size 2.54 2.1844) (drill 1.5494) (layers *.Cu *.Mask))
+  (model "${KICAD_USER_DIR}/packages3D/Janelia.3dshapes/TEENSY_4.1_headers.step"
+    (offset (xyz 0 -12.7 3.29))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -180))
+  )
 )
