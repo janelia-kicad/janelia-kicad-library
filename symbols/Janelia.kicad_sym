@@ -3529,7 +3529,7 @@
     (property "Reference" "J" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Barrel_Jack_Switch_5.5x2.5_SMD_RA_54-00165" (at 0 -5.08 0)
+    (property "Value" "5.5x2.5_SMD_RA" (at 0 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Janelia:CONN_54-00165" (at 0 10.795 0)
