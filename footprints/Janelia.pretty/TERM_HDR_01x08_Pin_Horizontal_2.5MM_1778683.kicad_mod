@@ -15,7 +15,7 @@
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp 9e2d835a-ff0a-4b0c-b793-c6da2d86bea1)
   )
-  (fp_rect (start -10.85 -7.2) (end 10.85 0.3)
+  (fp_rect (start -10.85 -7.2) (end 10.85 -1.2)
     (stroke (width 0.3) (type default)) (fill none) (layer "F.SilkS") (tstamp 939bacce-ae93-40fb-8d1a-de56b3f7c388))
   (fp_rect (start -10.85 -7.2) (end 10.85 1)
     (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 6c00c9c0-abaa-42a5-8488-798d5a16704c))

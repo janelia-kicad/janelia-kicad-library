@@ -1,11 +1,17 @@
-(module "MOUNTING_HOLE_4-40_WASHER" (layer F.Cu) (tedit 5B733C5C)
-  (fp_text reference "MOUNTING_HOLE_4-40" (at 0 -3.175) (layer F.SilkS) hide
-    (effects (font (size 1.524 1.524) (thickness 0.3048)))
+(footprint "MOUNTING_HOLE_4-40_WASHER" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "${REFERENCE}" (at 0 -3.175) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.3048)))
+    (tstamp 55d51a1c-c726-4677-aa9f-15a07fa4e70b)
   )
-  (fp_text value "${VALUE}" (at 0 3.81) (layer F.SilkS) hide
-    (effects (font (size 1.524 1.524) (thickness 0.3048)))
+  (fp_text value "${VALUE}" (at 0 3.81) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.3048)))
+    (tstamp 8ab7362f-ec6a-4576-9521-4989396233f7)
   )
-  (fp_circle (center 0 0) (end 4.1275 0) (layer B.SilkS) (width 0.2286))
-  (fp_circle (center 0 0) (end 4.1275 0) (layer F.SilkS) (width 0.2286))
-  (pad "1" thru_hole circle (at 0 0) (size 3.556 3.556) (drill 3.302) (layers *.Cu *.Mask))
+  (fp_circle (center 0 0) (end 4.1275 0)
+    (stroke (width 0.2286) (type solid)) (fill none) (layer "B.SilkS") (tstamp 2732b11b-2c16-4a82-9e6e-d6e4139d2aaa))
+  (fp_circle (center 0 0) (end 4.1275 0)
+    (stroke (width 0.2286) (type solid)) (fill none) (layer "F.SilkS") (tstamp 99fdc274-c40a-45d8-a7f8-d0c4099f2b57))
+  (pad "1" thru_hole circle (at 0 0) (size 3.556 3.556) (drill 3.302) (layers "*.Cu" "*.Mask") (tstamp 1ee20792-f2eb-425a-bd5d-3aa879c50d3a))
 )
