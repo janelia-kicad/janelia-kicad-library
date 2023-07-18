@@ -67,7 +67,7 @@
   (pad "18" smd rect (at 7.5 0) (size 0.6 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3e5d614e-4f4c-43d3-b3e4-d98dea11a7a8))
   (pad "19" smd rect (at 8.5 0) (size 0.6 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bb06f335-6fe9-4ef9-8815-e82f088da872))
   (pad "20" smd rect (at 9.5 0) (size 0.6 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1d24ef25-f87f-4b19-b227-2c476a352cb9))
-  (model "${KICAD_USER_DIR}/packages3D/Janelia.3dshapes/ZF1-20-01-X-WT-X.step"
+  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/ZF1-20-01-X-WT-X.step"
     (offset (xyz 0 -6.75 1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

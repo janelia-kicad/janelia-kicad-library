@@ -114,7 +114,7 @@
   (pad "24" thru_hole circle (at -7.249999 -1.645999) (size 1.7018 1.7018) (drill 1.2954) (layers "*.Cu" "*.Mask") (tstamp 1e7ba5df-3048-47f7-9374-1a0666bd58f9))
   (pad "25" thru_hole circle (at 7.249999 -1.645999) (size 1.7018 1.7018) (drill 1.2954) (layers "*.Cu" "*.Mask") (tstamp 1f6f4b4e-07b3-4b1a-acb2-3b901ac1acd1))
   (pad "26" thru_hole circle (at 0 1.654) (size 1.7018 1.7018) (drill 1.2954) (layers "*.Cu" "*.Mask") (tstamp b05995ea-799f-44d2-9e02-e48b16a1aef4))
-  (model "${KICAD_USER_DIR}/packages3D/Janelia.3dshapes/10078837.step"
+  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/10078837.step"
     (offset (xyz 0 0.85 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

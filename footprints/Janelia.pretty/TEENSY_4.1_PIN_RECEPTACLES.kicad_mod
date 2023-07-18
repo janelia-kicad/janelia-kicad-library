@@ -373,7 +373,7 @@
     (stroke (width 0.2) (type solid)) (fill none) (layer "F.Fab") (tstamp 1e56acd6-c3f5-4f10-a33d-4b42f56a5b9f))
   (fp_circle (center 7.62 41.91) (end 8.62 41.91)
     (stroke (width 0.2) (type solid)) (fill none) (layer "F.Fab") (tstamp f9f8ab31-7537-479d-a7d1-765b4341ffcb))
-  (model "${KICAD_USER_DIR}/packages3D/Janelia.3dshapes/TEENSY_4.1_headers.step"
+  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/TEENSY_4.1_headers.step"
     (offset (xyz 0 -12.7 3.29))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -180))

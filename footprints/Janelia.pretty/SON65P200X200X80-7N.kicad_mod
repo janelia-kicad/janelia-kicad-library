@@ -40,7 +40,7 @@
   (pad "7" smd roundrect (at 0 0) (size 1 1.6) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1)
     (chamfer_ratio 0.25) (chamfer top_left) (tstamp 7051fdab-a9d3-4ce0-94d2-852e173877b7))
   (pad "7" thru_hole circle (at 0 0.55) (size 0.5 0.5) (drill 0.254) (layers "*.Cu" "*.Mask") (tstamp bca20fb2-99c9-4b00-a2e9-88cf3c0ba71b))
-  (model "${KICAD_USER_DIR}/packages3D/Janelia.3dshapes/TPS70933DRVR.step"
+  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/TPS70933DRVR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

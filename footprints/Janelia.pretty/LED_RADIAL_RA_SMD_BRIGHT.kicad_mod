@@ -63,7 +63,7 @@
     (thermal_bridge_angle 45) (tstamp d2592678-11ee-4d8c-89f2-71f9f9bfb751))
   (pad "2" smd roundrect (at 1.27 -4.25 90) (size 3.5 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp 497d5b1f-5774-41a0-97b8-cb2850fc6f18))
-  (model "${KICAD_USER_DIR}/packages3D/Janelia.3dshapes/DIODE_RADIAL_RA_SMD_BRIGHT.step"
+  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/DIODE_RADIAL_RA_SMD_BRIGHT.step"
     (offset (xyz 0 0 2.4))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

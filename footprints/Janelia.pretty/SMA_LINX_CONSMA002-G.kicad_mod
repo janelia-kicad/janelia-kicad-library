@@ -48,7 +48,7 @@
   (pad "2" thru_hole circle (at -2.55 2.55) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp c3bb14f6-2d90-4609-ae09-b1b594d3ecf3))
   (pad "2" thru_hole circle (at 2.55 -2.55) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp f728f466-6a4a-4c1e-8a84-a873c1ea75a1))
   (pad "2" thru_hole circle (at 2.55 2.55) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp a53bfcd8-d429-4c44-b53d-7625794fbfca))
-  (model "${KICAD_USER_DIR}/packages3D/Janelia.3dshapes/CONSMA002-G.step"
+  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/CONSMA002-G.step"
     (offset (xyz 0 -4.1 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

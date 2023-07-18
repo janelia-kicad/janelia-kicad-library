@@ -37,7 +37,7 @@
     (chamfer_ratio 0.2) (chamfer top_left) (tstamp 9dd5729a-6920-4aa6-9c0d-750f5f21ecc1))
   (pad "9" thru_hole circle (at 0 0.95) (size 0.5 0.5) (drill 0.2) (layers "*.Cu" "*.Mask") (tstamp 2551d393-8d2c-43dd-a589-1299c76244d7))
   (pad "9" thru_hole circle (at 0.575 0) (size 0.5 0.5) (drill 0.2) (layers "*.Cu" "*.Mask") (tstamp 9450b7c7-5623-47b7-8069-60dc40f061de))
-  (model "${KICAD_USER_DIR}/packages3D/Janelia.3dshapes/DRB0008B.step"
+  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/DRB0008B.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
