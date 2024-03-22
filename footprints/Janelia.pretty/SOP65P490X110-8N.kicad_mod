@@ -41,7 +41,7 @@
   (pad "6" smd roundrect (at 2.165 0.325) (size 1.42 0.47) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.06) (tstamp 571fa102-d063-41ab-84b9-0c90b555c943))
   (pad "7" smd roundrect (at 2.165 -0.325) (size 1.42 0.47) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.06) (tstamp 05f6681f-5de2-46e8-b059-f3959f8add66))
   (pad "8" smd roundrect (at 2.165 -0.975) (size 1.42 0.47) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.06) (tstamp 4a5e3ead-e9ec-433e-8fde-f340c9230dff))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/MAX865EUA.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/MAX865EUA.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

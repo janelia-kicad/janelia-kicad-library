@@ -16,7 +16,7 @@
   (fp_circle (center 0 0) (end 1.27 0)
     (stroke (width 0.2) (type default)) (fill none) (layer "F.SilkS") (tstamp 19f1ec56-aca5-4db9-a4ae-dd0dabaf5199))
   (pad "1" thru_hole oval (at 0 0) (size 2.3 2.3) (drill 1.58) (layers "*.Cu" "*.Mask") (tstamp cdf182bf-0db1-44c7-8956-e0eec1b286f3))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/CONN_PIN_RCPT-0305-2-15.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/CONN_PIN_RCPT-0305-2-15.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

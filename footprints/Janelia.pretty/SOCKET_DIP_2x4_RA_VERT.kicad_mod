@@ -17,7 +17,7 @@
   (pad "6" thru_hole circle (at 3.81 1.27 90) (size 2 2) (drill 1.15) (layers "*.Cu" "*.Mask") (tstamp 72f8cd81-6d0e-40a6-9bb7-74d9b5e387c0))
   (pad "7" thru_hole circle (at 3.81 -1.27 90) (size 2 2) (drill 1.15) (layers "*.Cu" "*.Mask") (tstamp 6b99207e-bf00-4c8e-8904-3b6c41bb4fec))
   (pad "8" thru_hole circle (at 3.81 -3.81 90) (size 2 2) (drill 1.15) (layers "*.Cu" "*.Mask") (tstamp fcc59fbf-6153-4a2f-9aac-4775b1809b03))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/ARIES_08-810-90.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/ARIES_08-810-90.step"
     (offset (xyz 0 -13.46 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

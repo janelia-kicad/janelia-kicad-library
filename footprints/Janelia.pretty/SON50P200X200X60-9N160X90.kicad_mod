@@ -49,7 +49,7 @@
   (pad "7" smd roundrect (at 1.02 -0.25) (size 0.74 0.26) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.01) (tstamp ca6db665-0979-4856-a723-42cb98ce506a))
   (pad "8" smd roundrect (at 1.02 -0.75) (size 0.74 0.26) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.01) (tstamp 59fc490f-04f8-477a-a761-9aa4156228a9))
   (pad "9" smd rect (at 0 0 90) (size 1.6 0.9) (layers "F.Cu" "F.Mask") (tstamp aa146a32-3de4-458e-9593-b57282ef69f9))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/SON50P200X200X60-9N160X90.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/SON50P200X200X60-9N160X90.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

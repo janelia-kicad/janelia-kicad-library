@@ -41,7 +41,7 @@
   (pad "2" smd roundrect (at 0 1.475) (size 1 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b3b013a1-4355-414a-96e9-2d216dbbb020))
   (pad "2" smd roundrect (at 1.425 0) (size 0.95 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2)
     (chamfer_ratio 0.25) (chamfer top_left) (tstamp 4d47eea8-1f2b-44c0-9058-bcaa00e03084))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/UMC_A-1JB.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/UMC_A-1JB.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

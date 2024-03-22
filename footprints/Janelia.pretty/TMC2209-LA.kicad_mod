@@ -266,7 +266,7 @@
   (pad "29" thru_hole circle (at 1 -1) (size 0.5 0.5) (drill 0.254) (layers "*.Cu") (tstamp b69a14f4-1b8d-4fba-b382-d64b05e5c020))
   (pad "29" thru_hole circle (at 1 0) (size 0.5 0.5) (drill 0.254) (layers "*.Cu") (tstamp b729f81a-b73d-4be8-8963-2ee3c1a3ab92))
   (pad "29" thru_hole circle (at 1 1) (size 0.5 0.5) (drill 0.254) (layers "*.Cu") (tstamp 5a50b999-0f31-4c77-9b0d-01ea168115b4))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

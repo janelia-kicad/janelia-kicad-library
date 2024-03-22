@@ -23,7 +23,7 @@
     (stroke (width 0.3) (type default)) (fill none) (layer "F.Fab") (tstamp 796d1578-7116-4df9-ae6c-b3a6395d1b35))
   (pad "1" thru_hole rect (at 1.75 0) (size 2.2 2.2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 400ff69d-22b9-4658-9cfb-ff1d7e2efabd))
   (pad "2" thru_hole circle (at -1.75 0) (size 2.2 2.2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 59649330-2624-4d22-a084-6d1c0d0afc64))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/1844210.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/1844210.step"
     (offset (xyz 4.06 8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

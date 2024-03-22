@@ -69,7 +69,7 @@
   (pad "S2" thru_hole oval (at 4.18 1.25) (size 0.8 1.3) (drill oval 0.5 1) (layers "*.Cu" "*.Mask") (tstamp abe2c5ef-02b0-4f1b-8326-a468e4248771))
   (pad "S3" thru_hole oval (at -4.49 5.7) (size 0.8 1.3) (drill oval 0.5 1) (layers "*.Cu" "*.Mask") (tstamp 1973b361-d7b5-4451-8d2d-ebc6db66e9c8))
   (pad "S4" thru_hole oval (at 4.49 5.7) (size 0.8 1.3) (drill oval 0.5 1) (layers "*.Cu" "*.Mask") (tstamp 299b3e4a-a34a-42d4-8632-03281c87db4e))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/USB_C_10137062-00021LF.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/USB_C_10137062-00021LF.step"
     (offset (xyz 0.05 -2.35 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

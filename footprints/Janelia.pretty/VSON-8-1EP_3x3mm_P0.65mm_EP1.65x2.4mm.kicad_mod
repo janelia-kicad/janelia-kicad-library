@@ -50,7 +50,7 @@
   (pad "8" smd roundrect (at 1.4 -0.975) (size 0.6 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp a4336ea4-e614-40a2-85fc-595d81186501))
   (pad "9" smd roundrect (at 0 0) (size 1.65 2.4) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.05)
     (chamfer_ratio 0.2) (chamfer top_left) (tstamp eaeca667-6679-40a2-85fb-27a092ad581f))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/VSON-8_3x3mm_P0.65mm.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/VSON-8_3x3mm_P0.65mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

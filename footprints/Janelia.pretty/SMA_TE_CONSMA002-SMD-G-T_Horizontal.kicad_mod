@@ -474,7 +474,7 @@
         )
         (width 0.01) (fill yes))
     ) (tstamp f259783d-beb3-488e-bc10-beeaa6aba66b))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/CONSMA002-SMD-G-T.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/CONSMA002-SMD-G-T.step"
     (offset (xyz 0 -4.15 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

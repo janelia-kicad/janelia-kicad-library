@@ -27,7 +27,7 @@
     (stroke (width 0.3) (type default)) (fill none) (layer "F.SilkS") (tstamp 05f23773-e7f2-4ce9-b38c-41ba5deb653a))
   (fp_rect (start -3.75 -3.75) (end 3.75 3.75)
     (stroke (width 0.3) (type default)) (fill none) (layer "F.Fab") (tstamp 52e57306-06d1-4369-b5ff-6b9a3b58724f))
-  (model "${KICAD_USER_DIR}/3dmodels/Janelia.3dshapes/HEAT_SINK_TGH-0075-01.step"
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/HEAT_SINK_TGH-0075-01.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
