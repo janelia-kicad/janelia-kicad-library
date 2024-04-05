@@ -1,4 +1,4 @@
-(footprint "Molex_Pico-Clasp_501568_1x02_P1MM_Horizontal" (version 20221018) (generator pcbnew)
+(footprint "Molex_Pico-Clasp-501568_1x02_P1MM_Horizontal" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "REF**" (at 0.175 -5.185) (layer "F.SilkS")
@@ -117,6 +117,11 @@
   )
   (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/5015680207.step"
     (offset (xyz 0 -0.25 1.65))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/5013300200.step" hide
+    (offset (xyz 0 -0.5 1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
   )

@@ -1,4 +1,4 @@
-(footprint "Molex_Pico-SPOX_87438_1x04-P1.5mm_Horizontal" (version 20221018) (generator pcbnew)
+(footprint "Molex_Pico-SPOX-87438_1x04-P1.5mm_Horizontal" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "REF**" (at 0 -5.25) (layer "F.SilkS")
