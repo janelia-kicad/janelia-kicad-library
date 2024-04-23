@@ -1730,14 +1730,14 @@
       )
     )
   )
-  (symbol "AUDIO_JACK_3.5MM" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "AUDIO_JACK_3.5mm" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "AUDIO_JACK_3.5MM" (at 0 -5.08 0)
+    (property "Value" "AUDIO_JACK_3.5mm" (at 0 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Janelia:AUDIO_JACK_3.5MM_3PIN" (at -2.54 2.54 0)
+    (property "Footprint" "Janelia:AUDIO_JACK_3.5mm_3PIN" (at -2.54 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
@@ -1761,7 +1761,7 @@
     (property "Sim.Enable" "0" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "AUDIO_JACK_3.5MM_0_1"
+    (symbol "AUDIO_JACK_3.5mm_0_1"
       (rectangle (start -8.89 3.81) (end 8.89 -3.81)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -1800,7 +1800,7 @@
         (fill (type none))
       )
     )
-    (symbol "AUDIO_JACK_3.5MM_1_1"
+    (symbol "AUDIO_JACK_3.5mm_1_1"
       (pin passive line (at -11.43 -2.54 0) (length 2.54)
         (name "SLEEVE(GND)" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -5946,7 +5946,7 @@
       )
     )
   )
-  (symbol "CP_100uF_35V_6.6x6.6MM_Elec" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+  (symbol "CP_100uF_35V_6.6x6.6mm_Elec" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "C" (at 0.254 1.778 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -5980,7 +5980,7 @@
     (property "ki_fp_filters" "CP* Elko* TantalC* C*elec c_elec* SMD*_Pol" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "CP_100uF_35V_6.6x6.6MM_Elec_0_1"
+    (symbol "CP_100uF_35V_6.6x6.6mm_Elec_0_1"
       (rectangle (start -1.524 -0.3048) (end 1.524 -0.6858)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -6006,7 +6006,7 @@
         (fill (type none))
       )
     )
-    (symbol "CP_100uF_35V_6.6x6.6MM_Elec_1_1"
+    (symbol "CP_100uF_35V_6.6x6.6mm_Elec_1_1"
       (pin passive line (at 0 2.54 270) (length 1.8542)
         (name "~" (effects (font (size 1.016 1.016))))
         (number "1" (effects (font (size 1.016 1.016))))
@@ -6088,7 +6088,7 @@
       )
     )
   )
-  (symbol "CP_100uF_63V_10x10.5MM_Elec" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+  (symbol "CP_100uF_63V_10x10.5mm_Elec" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "C" (at 0.254 1.778 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6122,7 +6122,7 @@
     (property "ki_fp_filters" "CP* Elko* TantalC* C*elec c_elec* SMD*_Pol" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "CP_100uF_63V_10x10.5MM_Elec_0_1"
+    (symbol "CP_100uF_63V_10x10.5mm_Elec_0_1"
       (rectangle (start -1.524 -0.3048) (end 1.524 -0.6858)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -6148,7 +6148,7 @@
         (fill (type none))
       )
     )
-    (symbol "CP_100uF_63V_10x10.5MM_Elec_1_1"
+    (symbol "CP_100uF_63V_10x10.5mm_Elec_1_1"
       (pin passive line (at 0 2.54 270) (length 1.8542)
         (name "~" (effects (font (size 1.016 1.016))))
         (number "1" (effects (font (size 1.016 1.016))))
@@ -6159,7 +6159,7 @@
       )
     )
   )
-  (symbol "CP_100uF_63V_10x10.8MM_Elec_Antivib" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+  (symbol "CP_100uF_63V_10x10.8mm_Elec_Antivib" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "C" (at 0.254 1.778 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6193,7 +6193,7 @@
     (property "ki_fp_filters" "CP* Elko* TantalC* C*elec c_elec* SMD*_Pol" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "CP_100uF_63V_10x10.8MM_Elec_Antivib_0_1"
+    (symbol "CP_100uF_63V_10x10.8mm_Elec_Antivib_0_1"
       (rectangle (start -1.524 -0.3048) (end 1.524 -0.6858)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -6219,7 +6219,7 @@
         (fill (type none))
       )
     )
-    (symbol "CP_100uF_63V_10x10.8MM_Elec_Antivib_1_1"
+    (symbol "CP_100uF_63V_10x10.8mm_Elec_Antivib_1_1"
       (pin passive line (at 0 2.54 270) (length 1.8542)
         (name "~" (effects (font (size 1.016 1.016))))
         (number "1" (effects (font (size 1.016 1.016))))
@@ -6573,7 +6573,7 @@
       )
     )
   )
-  (symbol "CP_220uF_63V_12.5x14.1MM" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+  (symbol "CP_220uF_63V_12.5x14.1mm" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "C" (at 0.254 1.778 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6607,7 +6607,7 @@
     (property "ki_fp_filters" "CP* Elko* TantalC* C*elec c_elec* SMD*_Pol" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "CP_220uF_63V_12.5x14.1MM_0_1"
+    (symbol "CP_220uF_63V_12.5x14.1mm_0_1"
       (rectangle (start -1.524 -0.3048) (end 1.524 -0.6858)
         (stroke (width 0) (type default))
         (fill (type outline))
@@ -6633,7 +6633,7 @@
         (fill (type none))
       )
     )
-    (symbol "CP_220uF_63V_12.5x14.1MM_1_1"
+    (symbol "CP_220uF_63V_12.5x14.1mm_1_1"
       (pin passive line (at 0 2.54 270) (length 1.8542)
         (name "~" (effects (font (size 1.016 1.016))))
         (number "1" (effects (font (size 1.016 1.016))))
@@ -9926,14 +9926,14 @@
       )
     )
   )
-  (symbol "Conn_01x02_P1.5MM_Molex_Pico-SPOX-87438_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_01x02_P1.5mm_Molex_Pico-SPOX-87438_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 2.54 2.54 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02_P1.5MM_Molex_Pico-SPOX-87438_Horizontal" (at -1.27 -1.27 90) (do_not_autoplace)
+    (property "Value" "Conn_01x02_P1.5mm_Molex_Pico-SPOX-87438_Horizontal" (at -1.27 -1.27 90) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Janelia:Molex_Pico-SPOX-87438_1x02-P1.5MM_Horizontal" (at 0 0 0)
+    (property "Footprint" "Janelia:Molex_Pico-SPOX-87438_1x02-P1.5mm_Horizontal" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 0 0 0)
@@ -9963,7 +9963,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_01x02_P1.5MM_Molex_Pico-SPOX-87438_Horizontal_1_1"
+    (symbol "Conn_01x02_P1.5mm_Molex_Pico-SPOX-87438_Horizontal_1_1"
       (polyline
         (pts
           (xy 1.27 -2.54)
@@ -9998,14 +9998,14 @@
       )
     )
   )
-  (symbol "Conn_01x02_P1MM_Molex_Pico-Clasp-501330_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_01x02_P1mm_Molex_Pico-Clasp-501330_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 2.54 2.54 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02_P1.5MM_Molex_Pico-SPOX_Horizontal" (at -1.27 -1.27 90) (do_not_autoplace)
+    (property "Value" "Conn_01x02_P1.5mm_Molex_Pico-SPOX_Horizontal" (at -1.27 -1.27 90) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Janelia:Molex_Pico-Clasp-501568_1x02_P1MM_Horizontal" (at 0 0 0)
+    (property "Footprint" "Janelia:Molex_Pico-Clasp-501568_1x02_P1mm_Horizontal" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 0 0 0)
@@ -10035,7 +10035,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_01x02_P1MM_Molex_Pico-Clasp-501330_Horizontal_1_1"
+    (symbol "Conn_01x02_P1mm_Molex_Pico-Clasp-501330_Horizontal_1_1"
       (polyline
         (pts
           (xy 1.27 -2.54)
@@ -10070,11 +10070,11 @@
       )
     )
   )
-  (symbol "Conn_01x02_P3.5MM_TBH_Horizontal_Screw" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_01x02_P3.5mm_TBH_Horizontal_Screw" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02_P3.5MM_TBH_Horizontal_Screw" (at 0 -12.7 0)
+    (property "Value" "Conn_01x02_P3.5mm_TBH_Horizontal_Screw" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "Janelia:PhoenixContact_MC_1,5_2-G-3.5_1x02_P3.50mm_Horizontal_Screw" (at 0 35.56 0)
@@ -10110,7 +10110,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_01x02_P3.5MM_TBH_Horizontal_Screw_1_1"
+    (symbol "Conn_01x02_P3.5mm_TBH_Horizontal_Screw_1_1"
       (polyline
         (pts
           (xy 1.27 -2.54)
@@ -10145,11 +10145,11 @@
       )
     )
   )
-  (symbol "Conn_01x02_P5.0MM_TBH_Horizontal_Screw" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_01x02_P5.0mm_TBH_Horizontal_Screw" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02_P5.0MM_TBH_Horizontal_Screw" (at 0 -12.7 0)
+    (property "Value" "Conn_01x02_P5.0mm_TBH_Horizontal_Screw" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "Janelia:PhoenixContact_MSTBA_2,5_2-G_1x02_P5.00mm_Horizontal_Screw" (at 0 35.56 0)
@@ -10185,7 +10185,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_01x02_P5.0MM_TBH_Horizontal_Screw_1_1"
+    (symbol "Conn_01x02_P5.0mm_TBH_Horizontal_Screw_1_1"
       (polyline
         (pts
           (xy 1.27 -2.54)
@@ -10220,11 +10220,11 @@
       )
     )
   )
-  (symbol "Conn_01x03_P2.54MM_HeaderHoles" (pin_names (offset 1.016) hide) (in_bom no) (on_board yes)
+  (symbol "Conn_01x03_P2.54mm_HeaderHoles" (pin_names (offset 1.016) hide) (in_bom no) (on_board yes)
     (property "Reference" "J" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x03_P2.54MM_HeaderHoles" (at 0 -5.08 0)
+    (property "Value" "Conn_01x03_P2.54mm_HeaderHoles" (at 0 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Janelia:PinHeader_1x03_P2.54mm_Vertical_Holes" (at 0 0 0)
@@ -10242,7 +10242,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_01x03_P2.54MM_HeaderHoles_1_1"
+    (symbol "Conn_01x03_P2.54mm_HeaderHoles_1_1"
       (arc (start 0 -2.032) (mid -0.5058 -2.54) (end 0 -3.048)
         (stroke (width 0.1524) (type default))
         (fill (type none))
@@ -10293,11 +10293,11 @@
       )
     )
   )
-  (symbol "Conn_01x04_P1.5MM_Molex_Pico-SPOX-87438_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_01x04_P1.5mm_Molex_Pico-SPOX-87438_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 2.54 6.35 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x04_P1.5MM_Molex_Pico-SPOX-87438_Horizontal" (at -1.27 -1.27 90) (do_not_autoplace)
+    (property "Value" "Conn_01x04_P1.5mm_Molex_Pico-SPOX-87438_Horizontal" (at -1.27 -1.27 90) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Janelia:Molex_Pico-SPOX-87438_1x04-P1.5mm_Horizontal" (at 0 0 0)
@@ -10330,7 +10330,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_01x04_P1.5MM_Molex_Pico-SPOX-87438_Horizontal_1_1"
+    (symbol "Conn_01x04_P1.5mm_Molex_Pico-SPOX-87438_Horizontal_1_1"
       (polyline
         (pts
           (xy 1.27 -5.08)
@@ -10397,11 +10397,11 @@
       )
     )
   )
-  (symbol "Conn_01x04_P3.5MM_TBH_Horizontal_Push" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_01x04_P3.5mm_TBH_Horizontal_Push" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x04_P3.5MM_TBH_Horizontal_Screw" (at 0 -12.7 0)
+    (property "Value" "Conn_01x04_P3.5mm_TBH_Horizontal_Screw" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "Janelia:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal_Push" (at 0 35.56 0)
@@ -10437,7 +10437,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_01x04_P3.5MM_TBH_Horizontal_Push_1_1"
+    (symbol "Conn_01x04_P3.5mm_TBH_Horizontal_Push_1_1"
       (polyline
         (pts
           (xy 1.27 -5.08)
@@ -10504,11 +10504,11 @@
       )
     )
   )
-  (symbol "Conn_01x04_P3.5MM_TBH_Horizontal_Screw" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_01x04_P3.5mm_TBH_Horizontal_Screw" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x04_P3.5MM_TBH_Horizontal_Screw" (at 0 -12.7 0)
+    (property "Value" "Conn_01x04_P3.5mm_TBH_Horizontal_Screw" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "Janelia:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal_Screw" (at 0 35.56 0)
@@ -10544,7 +10544,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_01x04_P3.5MM_TBH_Horizontal_Screw_1_1"
+    (symbol "Conn_01x04_P3.5mm_TBH_Horizontal_Screw_1_1"
       (polyline
         (pts
           (xy 1.27 -5.08)
@@ -10611,11 +10611,11 @@
       )
     )
   )
-  (symbol "Conn_01x12_P2.54MM_HeaderHoles" (pin_names (offset 1.016) hide) (in_bom no) (on_board yes)
+  (symbol "Conn_01x12_P2.54mm_HeaderHoles" (pin_names (offset 1.016) hide) (in_bom no) (on_board yes)
     (property "Reference" "J" (at 0 15.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x12_P2.54MM_HeaderHoles" (at 0 -17.78 0)
+    (property "Value" "Conn_01x12_P2.54mm_HeaderHoles" (at 0 -17.78 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Janelia:PinHeader_1x12_P2.54mm_Vertical_Holes" (at 0 0 0)
@@ -10633,7 +10633,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_01x12_P2.54MM_HeaderHoles_1_1"
+    (symbol "Conn_01x12_P2.54mm_HeaderHoles_1_1"
       (arc (start 0 -14.732) (mid -0.5058 -15.24) (end 0 -15.748)
         (stroke (width 0.1524) (type default))
         (fill (type none))
@@ -10828,11 +10828,11 @@
       )
     )
   )
-  (symbol "Conn_01x16_P2.54MM_HeaderHoles" (pin_names (offset 1.016) hide) (in_bom no) (on_board yes)
+  (symbol "Conn_01x16_P2.54mm_HeaderHoles" (pin_names (offset 1.016) hide) (in_bom no) (on_board yes)
     (property "Reference" "J" (at 0 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x16_P2.54MM_HeaderHoles" (at 0 -22.86 0)
+    (property "Value" "Conn_01x16_P2.54mm_HeaderHoles" (at 0 -22.86 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Janelia:PinHeader_1x16_P2.54mm_Vertical_Holes" (at 0 0 0)
@@ -10850,7 +10850,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_01x16_P2.54MM_HeaderHoles_1_1"
+    (symbol "Conn_01x16_P2.54mm_HeaderHoles_1_1"
       (arc (start 0 -19.812) (mid -0.5058 -20.32) (end 0 -20.828)
         (stroke (width 0.1524) (type default))
         (fill (type none))
@@ -12003,14 +12003,14 @@
       )
     )
   )
-  (symbol "Conn_TERM_HDR_01x03_Pin_3.5MM_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_TERM_HDR_01x03_Pin_3.5mm_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_TERM_HDR_01x03_Pin_3.5MM_Horizontal" (at 0 -12.7 0)
+    (property "Value" "Conn_TERM_HDR_01x03_Pin_3.5mm_Horizontal" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Janelia:TERM_HDR_01x03_Pin_Horizontal_3.5MM_1844223" (at 0 35.56 0)
+    (property "Footprint" "Janelia:TERM_HDR_01x03_Pin_Horizontal_3.5mm_1844223" (at 0 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 20.32 0)
@@ -12043,7 +12043,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_TERM_HDR_01x03_Pin_3.5MM_Horizontal_1_1"
+    (symbol "Conn_TERM_HDR_01x03_Pin_3.5mm_Horizontal_1_1"
       (polyline
         (pts
           (xy 1.27 -2.54)
@@ -12094,14 +12094,14 @@
       )
     )
   )
-  (symbol "Conn_TERM_HDR_01x05_Pin_3.5MM_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_TERM_HDR_01x05_Pin_3.5mm_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_TERM_HDR_01x05_Pin_3.5MM_Horizontal" (at 0 -12.7 0)
+    (property "Value" "Conn_TERM_HDR_01x05_Pin_3.5mm_Horizontal" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Janelia:TERM_HDR_01x05_Pin_Horizontal_3.5MM_1844249" (at 0 35.56 0)
+    (property "Footprint" "Janelia:TERM_HDR_01x05_Pin_Horizontal_3.5mm_1844249" (at 0 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 20.32 0)
@@ -12134,7 +12134,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_TERM_HDR_01x05_Pin_3.5MM_Horizontal_1_1"
+    (symbol "Conn_TERM_HDR_01x05_Pin_3.5mm_Horizontal_1_1"
       (polyline
         (pts
           (xy 1.27 -5.08)
@@ -12217,14 +12217,14 @@
       )
     )
   )
-  (symbol "Conn_TERM_HDR_01x06_Pin_3.5MM_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_TERM_HDR_01x06_Pin_3.5mm_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_TERM_HDR_01x06_Pin_3.5MM_Horizontal" (at 0 -12.7 0)
+    (property "Value" "Conn_TERM_HDR_01x06_Pin_3.5mm_Horizontal" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Janelia:TERM_HDR_01x06_Pin_Horizontal_3.5MM_1844252" (at 0 35.56 0)
+    (property "Footprint" "Janelia:TERM_HDR_01x06_Pin_Horizontal_3.5mm_1844252" (at 0 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 20.32 0)
@@ -12257,7 +12257,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_TERM_HDR_01x06_Pin_3.5MM_Horizontal_1_1"
+    (symbol "Conn_TERM_HDR_01x06_Pin_3.5mm_Horizontal_1_1"
       (polyline
         (pts
           (xy 1.27 -10.16)
@@ -12388,14 +12388,14 @@
       )
     )
   )
-  (symbol "Conn_TERM_HDR_01x07_Pin_3.5MM_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_TERM_HDR_01x07_Pin_3.5mm_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_TERM_HDR_01x07_Pin_3.5MM_Horizontal" (at 0 -12.7 0)
+    (property "Value" "Conn_TERM_HDR_01x07_Pin_3.5mm_Horizontal" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Janelia:TERM_HDR_01x07_Pin_Horizontal_3.5MM_1844265" (at 0 35.56 0)
+    (property "Footprint" "Janelia:TERM_HDR_01x07_Pin_Horizontal_3.5mm_1844265" (at 0 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 20.32 0)
@@ -12425,7 +12425,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_TERM_HDR_01x07_Pin_3.5MM_Horizontal_1_1"
+    (symbol "Conn_TERM_HDR_01x07_Pin_3.5mm_Horizontal_1_1"
       (polyline
         (pts
           (xy 1.27 -7.62)
@@ -12540,14 +12540,14 @@
       )
     )
   )
-  (symbol "Conn_TERM_HDR_01x08_Pin_2.5MM_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_TERM_HDR_01x08_Pin_2.5mm_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_TERM_HDR_01x08_Pin_2.5MM_Horizontal" (at 0 -12.7 0)
+    (property "Value" "Conn_TERM_HDR_01x08_Pin_2.5mm_Horizontal" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Janelia:TERM_HDR_01x08_Pin_Horizontal_2.5MM_1778683" (at 0 35.56 0)
+    (property "Footprint" "Janelia:TERM_HDR_01x08_Pin_Horizontal_2.5mm_1778683" (at 0 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 20.32 0)
@@ -12580,7 +12580,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_TERM_HDR_01x08_Pin_2.5MM_Horizontal_1_1"
+    (symbol "Conn_TERM_HDR_01x08_Pin_2.5mm_Horizontal_1_1"
       (polyline
         (pts
           (xy 1.27 -10.16)
@@ -12711,14 +12711,14 @@
       )
     )
   )
-  (symbol "Conn_TERM_HDR_01x08_Pin_2.5MM_Horizontal_SMD" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_TERM_HDR_01x08_Pin_2.5mm_Horizontal_SMD" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_TERM_HDR_01x08_Pin_2.5MM_Horizontal_SMD" (at 0 -12.7 0)
+    (property "Value" "Conn_TERM_HDR_01x08_Pin_2.5mm_Horizontal_SMD" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Janelia:TERM_HDR_01x08_Pin_Horizontal_2.5MM_1778829" (at 0 35.56 0)
+    (property "Footprint" "Janelia:TERM_HDR_01x08_Pin_Horizontal_2.5mm_1778829" (at 0 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 20.32 0)
@@ -12751,7 +12751,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_TERM_HDR_01x08_Pin_2.5MM_Horizontal_SMD_1_1"
+    (symbol "Conn_TERM_HDR_01x08_Pin_2.5mm_Horizontal_SMD_1_1"
       (polyline
         (pts
           (xy 1.27 -10.16)
@@ -12882,14 +12882,14 @@
       )
     )
   )
-  (symbol "Conn_TERM_HDR_01x08_Pin_3.5MM_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Conn_TERM_HDR_01x08_Pin_3.5mm_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -3.81 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_TERM_HDR_01x08_Pin_3.5MM_Horizontal" (at 0 -12.7 0)
+    (property "Value" "Conn_TERM_HDR_01x08_Pin_3.5mm_Horizontal" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Janelia:TERM_HDR_01x08_Pin_Horizontal_3.5MM_1844278" (at 0 35.56 0)
+    (property "Footprint" "Janelia:TERM_HDR_01x08_Pin_Horizontal_3.5mm_1844278" (at 0 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 20.32 0)
@@ -12922,7 +12922,7 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Conn_TERM_HDR_01x08_Pin_3.5MM_Horizontal_1_1"
+    (symbol "Conn_TERM_HDR_01x08_Pin_3.5mm_Horizontal_1_1"
       (polyline
         (pts
           (xy 1.27 -10.16)
@@ -17457,11 +17457,11 @@
       )
     )
   )
-  (symbol "FAN_40x40x10MM_24V" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "FAN_40x40x10mm_24V" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "F" (at 6.35 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "FAN_40x40x10MM_24V" (at 13.97 0 90)
+    (property "Value" "FAN_40x40x10mm_24V" (at 13.97 0 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 0 0 0)
@@ -17482,7 +17482,7 @@
     (property "Sim.Enable" "0" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "FAN_40x40x10MM_24V_0_1"
+    (symbol "FAN_40x40x10mm_24V_0_1"
       (rectangle (start -12.7 12.7) (end 12.7 -12.7)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -17508,7 +17508,7 @@
         (fill (type none))
       )
     )
-    (symbol "FAN_40x40x10MM_24V_1_1"
+    (symbol "FAN_40x40x10mm_24V_1_1"
       (pin passive line (at 0 15.24 270) (length 2.54)
         (name "VDC(RED)" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -23932,7 +23932,7 @@
     (property "Value" "Heatsink" (at 0 -1.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Janelia:HEAT_SINK_7.5X7.5MM" (at 0.3048 0 0)
+    (property "Footprint" "Janelia:HEAT_SINK_7.5X7.5mm" (at 0.3048 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 0.3048 0 0)
@@ -25160,11 +25160,11 @@
       )
     )
   )
-  (symbol "LED_5MM_5V_GRN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "LED_5mm_5V_GRN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "L" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_5MM_5V_GRN" (at 0 -2.54 0)
+    (property "Value" "LED_5mm_5V_GRN" (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Janelia:LED_550-XX04_G" (at -2.54 0 0)
@@ -25188,7 +25188,7 @@
     (property "ki_fp_filters" "LED-3MM LED-5MM LED-10MM LED-0603 LED-0805 LED-1206 LEDV" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "LED_5MM_5V_GRN_0_1"
+    (symbol "LED_5mm_5V_GRN_0_1"
       (polyline
         (pts
           (xy 1.27 1.27)
@@ -25225,7 +25225,7 @@
         (fill (type none))
       )
     )
-    (symbol "LED_5MM_5V_GRN_1_1"
+    (symbol "LED_5mm_5V_GRN_1_1"
       (pin passive line (at -5.08 0 0) (length 3.81)
         (name "A" (effects (font (size 1.016 1.016))))
         (number "1" (effects (font (size 1.016 1.016))))
@@ -25236,11 +25236,11 @@
       )
     )
   )
-  (symbol "LED_5MM_5V_YEL" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "LED_5mm_5V_YEL" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "L" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_5MM_5V_YEL" (at 0 -2.54 0)
+    (property "Value" "LED_5mm_5V_YEL" (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Janelia:LED_550-XX04_Y" (at -2.54 0 0)
@@ -25264,7 +25264,7 @@
     (property "ki_fp_filters" "LED-3MM LED-5MM LED-10MM LED-0603 LED-0805 LED-1206 LEDV" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "LED_5MM_5V_YEL_0_1"
+    (symbol "LED_5mm_5V_YEL_0_1"
       (polyline
         (pts
           (xy 1.27 1.27)
@@ -25301,7 +25301,7 @@
         (fill (type none))
       )
     )
-    (symbol "LED_5MM_5V_YEL_1_1"
+    (symbol "LED_5mm_5V_YEL_1_1"
       (pin passive line (at -5.08 0 0) (length 3.81)
         (name "A" (effects (font (size 1.016 1.016))))
         (number "1" (effects (font (size 1.016 1.016))))
@@ -37840,14 +37840,14 @@
       )
     )
   )
-  (symbol "RECEPTACLE_2MM" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "RECEPTACLE_2mm" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "P" (at 2.54 -2.54 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "RECEPTACLE_2MM" (at 0 2.54 0)
+    (property "Value" "RECEPTACLE_2mm" (at 0 2.54 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Janelia:RECEPTACLE_2MM" (at 0 26.67 0)
+    (property "Footprint" "Janelia:RECEPTACLE_2mm" (at 0 26.67 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 1.27 69.85 0)
@@ -45159,11 +45159,11 @@
       )
     )
   )
-  (symbol "Screw_Terminal_01x02_P3.5MM_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Screw_Terminal_01x02_P3.5mm_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 0 2.54 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Screw_Terminal_01x02_P3.5MM_Horizontal" (at 2.54 -1.27 90) (do_not_autoplace)
+    (property "Value" "Screw_Terminal_01x02_P3.5mm_Horizontal" (at 2.54 -1.27 90) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Janelia:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" (at 0 0 0)
@@ -45196,7 +45196,7 @@
     (property "ki_fp_filters" "TerminalBlock*:*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Screw_Terminal_01x02_P3.5MM_Horizontal_1_1"
+    (symbol "Screw_Terminal_01x02_P3.5mm_Horizontal_1_1"
       (rectangle (start -1.27 1.27) (end 1.27 -3.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -45251,11 +45251,11 @@
       )
     )
   )
-  (symbol "Screw_Terminal_01x02_P5.0MM_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Screw_Terminal_01x02_P5.0mm_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 0 2.54 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Screw_Terminal_01x02_P5.0MM_Horizontal" (at 2.54 -1.27 90) (do_not_autoplace)
+    (property "Value" "Screw_Terminal_01x02_P5.0mm_Horizontal" (at 2.54 -1.27 90) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Janelia:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal" (at 0 0 0)
@@ -45288,7 +45288,7 @@
     (property "ki_fp_filters" "TerminalBlock*:*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Screw_Terminal_01x02_P5.0MM_Horizontal_1_1"
+    (symbol "Screw_Terminal_01x02_P5.0mm_Horizontal_1_1"
       (rectangle (start -1.27 1.27) (end 1.27 -3.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -45343,11 +45343,11 @@
       )
     )
   )
-  (symbol "Screw_Terminal_01x04_P3.5MM_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Screw_Terminal_01x04_P3.5mm_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 0 5.08 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Screw_Terminal_01x04_P3.5MM_Horizontal" (at 2.54 -1.27 90) (do_not_autoplace)
+    (property "Value" "Screw_Terminal_01x04_P3.5mm_Horizontal" (at 2.54 -1.27 90) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Janelia:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal" (at 0 0 0)
@@ -45380,7 +45380,7 @@
     (property "ki_fp_filters" "TerminalBlock*:*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Screw_Terminal_01x04_P3.5MM_Horizontal_1_1"
+    (symbol "Screw_Terminal_01x04_P3.5mm_Horizontal_1_1"
       (rectangle (start -1.27 3.81) (end 1.27 -6.35)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -47753,14 +47753,14 @@
       )
     )
   )
-  (symbol "TERM_BLK_ANG_2_PIN_3.5MM_PITCH" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "TERM_BLK_ANG_2_PIN_3.5mm_PITCH" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "T" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "TERM_BLK_ANG_2_PIN_3.5MM_PITCH" (at 2.54 0 90)
+    (property "Value" "TERM_BLK_ANG_2_PIN_3.5mm_PITCH" (at 2.54 0 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Janelia:TERM_BLK_ANG_2_PIN_3.5MM_PITCH" (at -2.54 1.27 0)
+    (property "Footprint" "Janelia:TERM_BLK_ANG_2_PIN_3.5mm_PITCH" (at -2.54 1.27 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
@@ -47784,7 +47784,7 @@
     (property "ki_fp_filters" "Pin_Header_Straight_1X02 Pin_Header_Angled_1X02 Socket_Strip_Straight_1X02 Socket_Strip_Angled_1X02" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "TERM_BLK_ANG_2_PIN_3.5MM_PITCH_0_1"
+    (symbol "TERM_BLK_ANG_2_PIN_3.5mm_PITCH_0_1"
       (rectangle (start -1.27 -1.143) (end 0.254 -1.397)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -47798,7 +47798,7 @@
         (fill (type none))
       )
     )
-    (symbol "TERM_BLK_ANG_2_PIN_3.5MM_PITCH_1_1"
+    (symbol "TERM_BLK_ANG_2_PIN_3.5mm_PITCH_1_1"
       (pin passive line (at -5.08 1.27 0) (length 3.81)
         (name "P1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -51986,11 +51986,11 @@
       )
     )
   )
-  (symbol "VIBRATION_MOTOR_24MM" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "VIBRATION_MOTOR_24mm" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "VM" (at 2.54 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "VIBRATION_MOTOR_24MM" (at 7.62 -1.27 90)
+    (property "Value" "VIBRATION_MOTOR_24mm" (at 7.62 -1.27 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 0 0 0)
@@ -52011,7 +52011,7 @@
     (property "Sim.Enable" "0" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "VIBRATION_MOTOR_24MM_0_1"
+    (symbol "VIBRATION_MOTOR_24mm_0_1"
       (polyline
         (pts
           (xy -5.08 0)
@@ -52029,7 +52029,7 @@
         (fill (type none))
       )
     )
-    (symbol "VIBRATION_MOTOR_24MM_1_1"
+    (symbol "VIBRATION_MOTOR_24mm_1_1"
       (pin passive line (at 0 -11.43 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "BLK" (effects (font (size 1.27 1.27))))
@@ -52208,7 +52208,7 @@
     (property "Value" "XTAL_32MHZ_CTS" (at -8.89 7.62 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Janelia:CTS_SMD_4_7X5MM" (at 3.81 5.08 0)
+    (property "Footprint" "Janelia:CTS_SMD_4_7X5mm" (at 3.81 5.08 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
