@@ -51,6 +51,10 @@
     (stroke (width 0.1) (type default)) (layer "User.1") (tstamp 75c9226f-f57f-4f66-9bb8-5fc7252471cd))
   (fp_circle (center -6.75 -6.75) (end -5.75 -6.75)
     (stroke (width 0.1) (type default)) (fill none) (layer "User.1") (tstamp 3c1c553f-7fc0-4a3b-abb2-81f69a557d64))
+  (fp_circle (center -6.75 -6.75) (end -4.44 -6.75)
+    (stroke (width 0.1) (type default)) (fill none) (layer "User.1") (tstamp 569fed78-49ae-4c29-a357-cc0b2a60723b))
+  (fp_circle (center 6.69 6.75) (end 9 6.75)
+    (stroke (width 0.1) (type default)) (fill none) (layer "User.1") (tstamp 47274ebd-9216-42a6-a233-8c863e970ea6))
   (fp_circle (center 6.75 6.75) (end 7.75 6.75)
     (stroke (width 0.1) (type default)) (fill none) (layer "User.1") (tstamp 6a514ebc-fbc3-4d1a-8d6f-d7062c2ba7b2))
   (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/FAN_ASB01703HA3-00CAH.step"
