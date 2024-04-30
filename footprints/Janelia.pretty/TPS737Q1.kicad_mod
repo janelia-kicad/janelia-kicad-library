@@ -187,6 +187,8 @@
   (pad "6" smd roundrect (at 1.4 0.325) (size 0.6 0.31) (layers "F.Cu" "F.Paste") (roundrect_rratio 0.04) (tstamp 806e138a-951d-4c8a-8e2d-1672e83b135f))
   (pad "7" smd roundrect (at 1.4 -0.325) (size 0.6 0.31) (layers "F.Cu" "F.Paste") (roundrect_rratio 0.04) (tstamp a99c52e4-7af3-4944-83a2-24ea62b823aa))
   (pad "8" smd roundrect (at 1.4 -0.975) (size 0.6 0.31) (layers "F.Cu" "F.Paste") (roundrect_rratio 0.04) (tstamp aafc64da-c26e-45b4-9761-4ce8b927590b))
+  (pad "9" thru_hole circle (at -0.5 0) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp 65b92784-0d10-4930-8979-b5b7c4318084))
+  (pad "9" thru_hole circle (at 0 -0.625) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp dead91df-8f7a-45ab-a305-82825aab2e08))
   (pad "9" smd custom (at 0 0) (size 1.5 1.75) (layers "F.Cu")
     (options (clearance outline) (anchor rect))
     (primitives
@@ -215,10 +217,8 @@
         )
         (width 0.01) (fill yes))
     ) (tstamp ce9aae79-819a-4be4-b2f1-c3b282e7ee5b))
-  (pad "10" thru_hole circle (at 0 -0.625) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp dead91df-8f7a-45ab-a305-82825aab2e08))
-  (pad "11" thru_hole circle (at 0.5 0) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp 8399859e-01fd-434f-816d-c78c88667f61))
-  (pad "12" thru_hole circle (at -0.5 0) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp 65b92784-0d10-4930-8979-b5b7c4318084))
-  (pad "13" thru_hole circle (at 0 0.625) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp 133a6f93-8dc9-4d97-b4d4-030cb5bf2ad5))
+  (pad "9" thru_hole circle (at 0 0.625) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp 133a6f93-8dc9-4d97-b4d4-030cb5bf2ad5))
+  (pad "9" thru_hole circle (at 0.5 0) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp 8399859e-01fd-434f-816d-c78c88667f61))
   (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/TPS737Q1.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
