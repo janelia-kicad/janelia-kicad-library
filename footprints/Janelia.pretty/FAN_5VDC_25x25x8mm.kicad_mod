@@ -71,22 +71,22 @@
   (pad "2" thru_hole circle (at 10 10) (size 4.4 4.4) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 13700d26-87bb-4938-b69a-ef7442c24bd4))
   (pad "3" thru_hole circle (at -10 10) (size 4.4 4.4) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 8ff799fd-c78f-43f4-84c8-57f3e212734d))
   (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/FAN_255M.step"
-    (offset (xyz 0 0 6))
+    (offset (xyz 0 0 8))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 90))
   )
-  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/Standoff_M2_4x6mm.step"
-    (offset (xyz 10 10 0))
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/Standoff_M2_4x8mm.step"
+    (offset (xyz 10 10 4))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 0 0))
   )
-  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/Standoff_M2_4x6mm.step"
-    (offset (xyz 10 -10 0))
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/Standoff_M2_4x8mm.step"
+    (offset (xyz 10 -10 4))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
   )
-  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/Standoff_M2_4x6mm.step"
-    (offset (xyz -10 -10 0))
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/Standoff_M2_4x8mm.step"
+    (offset (xyz -10 -10 4))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
   )
