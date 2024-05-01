@@ -10204,6 +10204,10 @@
         (name "Pin_2" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
+      (pin no_connect line (at 7.62 -1.27 180) (length 2.54) hide
+        (name "" (effects (font (size 1.27 1.27))))
+        (number "MP" (effects (font (size 1.27 1.27))))
+      )
     )
   )
   (symbol "Conn_01x02_P1.5mm_Molex_Pico-SPOX-87438_Horizontal" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
@@ -10348,6 +10352,10 @@
         (name "Pin_2" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
+      (pin no_connect line (at 7.62 -1.27 180) (length 2.54) hide
+        (name "" (effects (font (size 1.27 1.27))))
+        (number "MP" (effects (font (size 1.27 1.27))))
+      )
     )
   )
   (symbol "Conn_01x02_P1mm_Molex_Pico-Clasp-501331_Vertical" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
@@ -10419,6 +10427,10 @@
       (pin passive line (at 5.08 -2.54 180) (length 3.81)
         (name "Pin_2" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
+      )
+      (pin no_connect line (at 7.62 -1.27 180) (length 2.54) hide
+        (name "" (effects (font (size 1.27 1.27))))
+        (number "MP" (effects (font (size 1.27 1.27))))
       )
     )
   )
@@ -14026,6 +14038,18 @@
       (pin passive line (at -7.62 -40.64 90) (length 5.08)
         (name "SHIELD" (effects (font (size 1.27 1.27))))
         (number "S1" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at -7.62 -40.64 90) (length 5.08) hide
+        (name "SHIELD" (effects (font (size 1.27 1.27))))
+        (number "S2" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at -7.62 -40.64 90) (length 5.08) hide
+        (name "SHIELD" (effects (font (size 1.27 1.27))))
+        (number "S3" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at -7.62 -40.64 90) (length 5.08) hide
+        (name "SHIELD" (effects (font (size 1.27 1.27))))
+        (number "S4" (effects (font (size 1.27 1.27))))
       )
     )
   )
@@ -44824,6 +44848,10 @@
         (name "OUT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
+      (pin no_connect line (at 5.08 -7.62 90) (length 2.54) hide
+        (name "2" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
       (pin passive line (at 10.16 0 180) (length 2.54)
         (name "NR" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
@@ -44835,6 +44863,14 @@
       (pin input line (at -10.16 0 0) (length 2.54)
         (name "EN" (effects (font (size 1.27 1.27))))
         (number "5" (effects (font (size 1.27 1.27))))
+      )
+      (pin no_connect line (at -2.54 -7.62 90) (length 2.54) hide
+        (name "6" (effects (font (size 1.27 1.27))))
+        (number "6" (effects (font (size 1.27 1.27))))
+      )
+      (pin no_connect line (at -10.16 -2.54 0) (length 2.54) hide
+        (name "7" (effects (font (size 1.27 1.27))))
+        (number "7" (effects (font (size 1.27 1.27))))
       )
       (pin power_in line (at -10.16 2.54 0) (length 2.54)
         (name "IN" (effects (font (size 1.27 1.27))))
