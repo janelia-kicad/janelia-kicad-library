@@ -29,6 +29,8 @@
     (stroke (width 0.2794) (type solid)) (layer "F.SilkS") (tstamp 7589b4a8-fb0c-480d-9863-091bc5c70efb))
   (fp_line (start 2.85 -0.31) (end 2.85 3.29)
     (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp 3ae54162-19f8-4c14-9d91-256446eedca0))
+  (pad "" smd rect (at -2.54 2.65) (size 0.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1a7e4980-0591-45d1-8072-61f5bedf407d))
+  (pad "" smd rect (at 2.54 2.65) (size 0.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 61c55a94-3c60-4282-bce4-586b0db5bbb3))
   (pad "1" smd rect (at -1.75 0) (size 0.3 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b0545187-26e0-4445-97d8-09710596b9cd))
   (pad "2" smd rect (at -1.25 0) (size 0.3 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9705cad1-de1f-43c9-aa3a-04edfd169218))
   (pad "3" smd rect (at -0.75 0) (size 0.3 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d8f1caa1-a3c8-4d3d-9519-d8daf822d18b))
@@ -37,8 +39,6 @@
   (pad "6" smd rect (at 0.75 0) (size 0.3 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c11e775f-3675-48d4-a404-1967b6f11e11))
   (pad "7" smd rect (at 1.25 0) (size 0.3 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d0b6a4a1-2e55-4026-82df-12424c7a8cd4))
   (pad "8" smd rect (at 1.75 0) (size 0.3 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4c9195a7-db9c-44b8-ae23-6476b0ada99d))
-  (pad "MP" smd rect (at -2.54 2.65) (size 0.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1a7e4980-0591-45d1-8072-61f5bedf407d))
-  (pad "MP" smd rect (at 2.54 2.65) (size 0.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 61c55a94-3c60-4282-bce4-586b0db5bbb3))
   (model "${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_502231-1500_1x15-1SH_P0.5mm_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
