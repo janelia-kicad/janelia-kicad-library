@@ -1,7 +1,7 @@
 (footprint "CP_Hybrid_EEHZS1H221V" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "REF**" (at -0.375 -6.535) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 7.25 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 78aab5be-fb9c-4515-95a3-a1f47af38559)
   )
@@ -59,7 +59,7 @@
     (stroke (width 0.127) (type solid)) (layer "F.SilkS") (tstamp 8368c84d-8ce6-49e2-b806-3d4f1858c3c1))
   (fp_line (start 5.15 5.15) (end 5.15 1.57)
     (stroke (width 0.127) (type solid)) (layer "F.SilkS") (tstamp e762f2ec-e344-4f55-851d-ea9c6de32583))
-  (fp_circle (center -6.3 -2.1) (end -6.2 -2.1)
+  (fp_circle (center -1.5 0) (end -1.4 0)
     (stroke (width 0.2) (type solid)) (fill none) (layer "F.SilkS") (tstamp 12af6135-230c-44d6-ade6-5de741874dd1))
   (fp_poly
     (pts
@@ -135,7 +135,7 @@
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp 29bc8762-fcec-4922-8459-33c2d8e4017d))
   (fp_line (start 5.15 5.15) (end 5.15 -5.15)
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp 69cd94b8-14c5-4f06-ae80-bd48be7acf45))
-  (fp_circle (center -6.3 -2.1) (end -6.2 -2.1)
+  (fp_circle (center -1.5 0) (end -1.4 0)
     (stroke (width 0.2) (type solid)) (fill none) (layer "F.Fab") (tstamp 73f7675c-5a7a-426a-921a-a664a53b53e3))
   (pad "1" smd custom (at -3.8 0) (size 2 2) (layers "F.Cu")
     (options (clearance outline) (anchor rect))
@@ -157,7 +157,7 @@
         )
         (width 0.01) (fill yes))
     ) (tstamp 22416508-d8f5-4379-92c2-6ff6bc6f73e6))
-  (pad "2" smd custom (at 3.8 0 180) (size 2 2) (layers "F.Cu")
+  (pad "2" smd custom (at 3.8 0) (size 2 2) (layers "F.Cu")
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly
