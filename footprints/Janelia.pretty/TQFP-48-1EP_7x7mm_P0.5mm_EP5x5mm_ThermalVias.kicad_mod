@@ -4,7 +4,7 @@
   (tags "TQFP QFP")
   (attr smd)
   (fp_text reference "REF**" (at 0 -5.85) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.25) bold))
     (tstamp 734a6191-9f1f-4c95-b1b0-b167cd75dcdc)
   )
   (fp_text value "TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias" (at 0 5.85) (layer "F.Fab")
@@ -31,15 +31,8 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 7d60b48d-6861-4f3b-b282-1cf34f40125b))
   (fp_line (start 3.61 3.61) (end 3.61 3.16)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 4186530f-7fc7-421d-93cf-49f360fd3a95))
-  (fp_poly
-    (pts
-      (xy -4.2 -3.16)
-      (xy -4.54 -3.63)
-      (xy -3.86 -3.63)
-      (xy -4.2 -3.16)
-    )
-
-    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 2d2cb5cb-b311-429b-bfa5-1f26d35b9684))
+  (fp_circle (center -4.25 -3.5) (end -4 -3.5)
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 7f5a8298-38f9-446a-a9f7-4b34ef7370e9))
   (fp_line (start -5.15 -3.15) (end -5.15 0)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp f5ffa275-78d4-43b1-bfe6-2ecc22e42873))
   (fp_line (start -5.15 3.15) (end -5.15 0)
@@ -98,6 +91,8 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 5a8d42b4-f0bb-4934-9dba-9b313c870ab5))
   (fp_line (start 3.5 3.5) (end -3.5 3.5)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 05063abe-0067-4b98-afc5-b4e76b6c3120))
+  (fp_circle (center -4.25 -3.5) (end -4 -3.5)
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Fab") (tstamp a5294e88-4bda-4404-a370-0546c54a2c7a))
   (pad "" smd custom (at -1.6875 -1.6875) (size 0.890668 0.890668) (layers "F.Paste")
     (options (clearance outline) (anchor circle))
     (primitives
