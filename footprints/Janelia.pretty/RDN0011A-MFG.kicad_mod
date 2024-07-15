@@ -6,7 +6,7 @@
       (effects (font (size 0.5 0.5) (thickness 0.125) bold))
     (tstamp 6d30978d-9d4d-452d-a0db-706380300a96)
   )
-  (fp_text value "RDN0011A-MFG" (at 0 -3 unlocked) (layer "F.Fab") hide
+  (fp_text value "RDN0011A-MFG" (at 0 -3.2) (layer "F.Fab") hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 8bdf137b-50d7-4a3c-a7b0-1e344650de27)
   )
