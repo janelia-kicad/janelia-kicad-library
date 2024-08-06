@@ -82,7 +82,7 @@
   (pad "9" thru_hole oval (at 28 0) (size 1.8 3.6) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp f99e6cb5-461f-4b17-8929-138f19367601))
   (pad "10" thru_hole oval (at 31.5 0) (size 1.8 3.6) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 3c37ee6c-172e-488e-bc78-198b9709db7d))
   (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/1844294.step"
-    (offset (xyz 0 0 0))
+    (offset (xyz -2.3 -8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
