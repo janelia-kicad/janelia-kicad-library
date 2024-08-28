@@ -38645,7 +38645,7 @@
     (property "Datasheet" "" (at -4.445 3.175 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Synopsis" "XTAL OSC XO 16.0000MHZ HCMOS SMD" (at 0 0 0)
+    (property "Synopsis" "XTAL OSC XO 16MHZ 3.3V HCMOS SMD" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Manufacturer" "ECS Inc." (at 0 0 0)
