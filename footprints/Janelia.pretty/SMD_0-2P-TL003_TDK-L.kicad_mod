@@ -28,20 +28,6 @@
   (pad "2" smd rect (at -2.275 1.25) (size 1.35 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c5aa575c-62b3-4851-a881-c85fbfad7213))
   (pad "3" smd rect (at 2.275 1.25) (size 1.35 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp de2661ac-2a83-4c48-b083-a78400ef946c))
   (pad "4" smd rect (at 2.275 -1.25) (size 1.35 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fb8511e8-a2cd-4b3b-b80d-16a0baace082))
-  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 32d28401-8b15-4de1-a900-e721ad71d597) (hatch full 0.508)
-    (connect_pads (clearance 0))
-    (min_thickness 0.254) (filled_areas_thickness no)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
-    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
-    (polygon
-      (pts
-        (xy -1.4859 -1.651)
-        (xy 1.4859 -1.651)
-        (xy 1.4859 1.651)
-        (xy -1.4859 1.651)
-      )
-    )
-  )
   (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/SMD_0-2P-TL003_TDK.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
