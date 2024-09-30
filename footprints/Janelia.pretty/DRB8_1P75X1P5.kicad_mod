@@ -116,9 +116,9 @@
     (solder_mask_margin 0.07) (tstamp 136af3b7-858a-4807-8eb4-c3bf73d8ff99))
   (pad "9" smd rect (at -0.325 -1.2875) (size 0.23 0.825) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ed142e37-b93f-4a7c-b445-0021cea10ef2))
   (pad "9" smd rect (at -0.325 1.2875) (size 0.23 0.825) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b9c8d318-feec-4e90-aaa0-c09c6b699f25))
-  (pad "9" thru_hole circle (at 0 -0.3937) (size 0.508 0.508) (drill 0.254) (layers "*.Cu" "*.Mask") (tstamp a670213b-f2bd-41d8-b6fe-98926214cd88))
+  (pad "9" thru_hole circle (at 0 -0.3937) (size 0.7 0.7) (drill 0.2) (layers "*.Cu" "*.Mask") (tstamp a670213b-f2bd-41d8-b6fe-98926214cd88))
   (pad "9" smd rect (at 0 0) (size 1.5 1.75) (layers "F.Cu" "F.Mask") (tstamp e2c876ac-c68f-4c68-be90-f3250ea15436))
-  (pad "9" thru_hole circle (at 0 0.3937) (size 0.508 0.508) (drill 0.254) (layers "*.Cu" "*.Mask") (tstamp 0dce2f43-1a3d-4679-a590-7315c7208a53))
+  (pad "9" thru_hole circle (at 0 0.3937) (size 0.7 0.7) (drill 0.2) (layers "*.Cu" "*.Mask") (tstamp 0dce2f43-1a3d-4679-a590-7315c7208a53))
   (pad "9" smd rect (at 0.325 -1.2875) (size 0.23 0.825) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 81f00d65-631c-4f68-866a-e9de0c0e9f7c))
   (pad "9" smd rect (at 0.325 1.2875) (size 0.23 0.825) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8f00606e-ae5c-4b03-990f-a7a13df2d17c))
   (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/TPA6204A1DRBR.step"
