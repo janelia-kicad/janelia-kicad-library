@@ -81,4 +81,9 @@
   (pad "23" thru_hole oval (at 7.62 -8.89) (size 2.54 1.524) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp 03945cac-9c5c-46d2-b179-8e4b8b51d8bb))
   (pad "GND" thru_hole rect (at -7.62 -16.51) (size 2.54 1.524) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp 795137c8-64f4-4c04-83ae-1b6b720bcc6f))
   (pad "V" thru_hole oval (at 7.62 -16.51) (size 2.54 1.524) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp dde79584-8c66-42fc-9577-b10cafa829a4))
+  (model "${KICAD_JANELIA_LIBRARY}/3dmodels/Janelia.3dshapes/Teensy_4.0_headers.step"
+    (offset (xyz 0 -1.25 4.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
