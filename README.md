@@ -1,20 +1,20 @@
-- [Repository Info](#org59a6d42)
-- [Development](#org5ab4b4b)
+- [Repository Info](#org6b0c83f)
+- [Development](#orgdbef2e6)
 
     <!-- This file is generated automatically from metadata -->
     <!-- File edits may be overwritten! -->
 
 
-<a id="org59a6d42"></a>
+<a id="org6b0c83f"></a>
 
 # Repository Info
 
 -   Project Name: janelia-kicad-library
 -   Synopsis: Janelia KiCad content library for symbols, footprints, and 3dmodels.
 -   Documentation Version: 1.0.0
--   Release Date: 2025-02-07
+-   Release Date: 2025-05-16
 -   Creation Date: 2023-02-22
--   Kicad Version: 7.0.11
+-   Kicad Version: 9.0.0
 -   License: BSD-3-Clause
 -   URL: <https://github.com/janelia-kicad/janelia-kicad-library>
 -   Author: Peter Polidoro
@@ -24,7 +24,7 @@
     -   [KiCad Library Conventions](https://klc.kicad.org/)
 
 
-<a id="org5ab4b4b"></a>
+<a id="orgdbef2e6"></a>
 
 # Development
 
